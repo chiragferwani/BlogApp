@@ -1,0 +1,14 @@
+.emptyList-wrap {
+  display: flex;
+  justify-content: center;
+  font-family: 'SFPro';
+  color: #E0E1E4;
+
+}
+.emptyList-wrap img {
+  max-width: 250px;
+  width: 100%;
+  font-family: 'SFPro';
+  color: #E0E1E4;
+
+}
