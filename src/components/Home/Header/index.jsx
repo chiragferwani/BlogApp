@@ -5,7 +5,7 @@ const Header = () => (
   <header className='home-header'>
     <h2>ErrorByNight</h2>
     <h1>
-      <span>“</span> The Idea Brew <span>”</span>
+      <span>“</span>The Idea Brew<span>”</span>
     </h1>
     <p>
     Brought to you by Chirag Ferwani
