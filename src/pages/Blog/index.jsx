@@ -37,6 +37,7 @@ const Blog = () => {
           </header>
           <img src={blog.cover} alt='cover' />
           <p className='blog-desc'>{blog.description}</p>
+          <p className='blog-desc'>~{blog.authorName}</p>
         </div>
       ) : (
         <EmptyList />
